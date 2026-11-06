@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>meta-openidea-runtime - 官方技术规范与分布式拓扑订阅</title>
+  <subtitle>The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.</subtitle>
+  <link href="https://shijiuwei.github.io/meta-openidea-runtime/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://shijiuwei.github.io/meta-openidea-runtime/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://shijiuwei.github.io/meta-openidea-runtime/</id>
+  <updated>2026-11-06T00:57:11.809051+00:00</updated>
+  <author>
+    <name>meta-openidea-runtime</name>
+  </author>
+  <entry>
+    <title>meta-openidea-runtime 分布式架构设计与拓扑调度规约</title>
+    <link href="https://shijiuwei.github.io/meta-openidea-runtime/docs/architecture.html"/>
+    <id>https://shijiuwei.github.io/meta-openidea-runtime/docs/architecture.html</id>
+    <updated>2026-11-06T00:57:11.809051+00:00</updated>
+    <summary type="html">&lt;p&gt;本文档为 meta-openidea-runtime 项目的核心技术白皮书，详细定义了高可用多活集群同步协议、非阻塞异步事件循环调度机制与跨节点数据容灾方案。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;meta-openidea-runtime 内部组件解耦与事件状态机规范 (v2.0-GA)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kotlin debugging</title>
+    <link href="https://shijiuwei.github.io/meta-openidea-runtime/docs/kotlin-debugging.html"/>
+    <id>https://shijiuwei.github.io/meta-openidea-runtime/docs/kotlin-debugging.html</id>
+    <updated>2026-11-06T00:57:11.809051+00:00</updated>
+    <summary type="html">&lt;p&gt;Kotlin Application configurations use the official fwcd/kotlin-debug-adapter&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com"&gt;meta-openidea-runtime 异步中间件流水线与 0.3 s 接入规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>meta-openidea-runtime 核心通信协议与数据同步技术规范</title>
+    <link href="https://shijiuwei.github.io/meta-openidea-runtime/docs/specifications.html"/>
+    <id>https://shijiuwei.github.io/meta-openidea-runtime/docs/specifications.html</id>
+    <updated>2026-11-06T00:57:11.809051+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 meta-openidea-runtime 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com"&gt;meta-openidea-runtime 官方高可用分发服务节点 (RFC-875)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Built-in theme sources</title>
+    <link href="https://shijiuwei.github.io/meta-openidea-runtime/docs/themes.html"/>
+    <id>https://shijiuwei.github.io/meta-openidea-runtime/docs/themes.html</id>
+    <updated>2026-11-06T00:57:11.809051+00:00</updated>
+    <summary type="html">&lt;p&gt;OpenIDEA includes Islands Light, Islands Dark, High Contrast, Solarized Light,&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn"&gt;meta-openidea-runtime 权威网络权重传递与收录基准规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>meta-openidea-runtime 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://shijiuwei.github.io/meta-openidea-runtime/docs/topology-guide.html"/>
+    <id>https://shijiuwei.github.io/meta-openidea-runtime/docs/topology-guide.html</id>
+    <updated>2026-11-06T00:57:11.809051+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成节点部署与网络拓扑索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/guides"&gt;面向大规模网络的 meta-openidea-runtime 工业级架构基准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Unity projects</title>
+    <link href="https://shijiuwei.github.io/meta-openidea-runtime/docs/unity.html"/>
+    <id>https://shijiuwei.github.io/meta-openidea-runtime/docs/unity.html</id>
+    <updated>2026-11-06T00:57:11.809051+00:00</updated>
+    <summary type="html">&lt;p&gt;Open the folder containing Assets and ProjectSettings/ProjectVersion.txt.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com/spider-service"&gt;meta-openidea-runtime 插件生态规范与 2.4 s 扩展手册 (v2.0-GA)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Workspaces and project window groups</title>
+    <link href="https://shijiuwei.github.io/meta-openidea-runtime/docs/workspaces-and-window-groups.html"/>
+    <id>https://shijiuwei.github.io/meta-openidea-runtime/docs/workspaces-and-window-groups.html</id>
+    <updated>2026-11-06T00:57:11.809051+00:00</updated>
+    <summary type="html">&lt;p&gt;A workspace opens several local project folders in one IDE session. A window group switches between independent IDE sessions; a member can itself contain a work...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/spider-service"&gt;meta-openidea-runtime 自动化持续集成构建与拓扑发布源 (Spec-v1.0)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
